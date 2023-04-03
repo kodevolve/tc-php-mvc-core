@@ -1,5 +1,5 @@
 <?php
-namespace app\core;
+namespace daviscodedev\phpmvc;
 
 abstract class Model {
 

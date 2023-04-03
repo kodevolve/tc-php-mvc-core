@@ -1,7 +1,7 @@
 <?php
-namespace app\core\form;
+namespace daviscodedev\phpmvc\form;
 
-use app\core\Model;
+use daviscodedev\phpmvc\Model;
 
 abstract class Base_Field {
 

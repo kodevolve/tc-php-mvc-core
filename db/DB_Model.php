@@ -1,8 +1,8 @@
 <?php
-namespace app\core\db;
+namespace daviscodedev\phpmvc\db;
 
-use app\core\Application;
-use app\core\Model;
+use daviscodedev\phpmvc\Application;
+use daviscodedev\phpmvc\Model;
 
 #[\AllowDynamicProperties]
 abstract class DB_Model extends Model {

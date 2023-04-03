@@ -1,7 +1,7 @@
 <?php
-namespace app\core\form;
+namespace daviscodedev\phpmvc\form;
 
-use app\core\Model;
+use daviscodedev\phpmvc\Model;
 
 class Form {
     public static function begin($action, $method) {

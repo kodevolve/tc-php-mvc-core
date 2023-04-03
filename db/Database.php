@@ -1,7 +1,7 @@
 <?php
-namespace app\core\db;
+namespace daviscodedev\phpmvc\db;
 
-use app\core\Application;
+use daviscodedev\phpmvc\Application;
 
 class Database {
     public \PDO $pdo;

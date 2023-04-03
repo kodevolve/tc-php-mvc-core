@@ -1,5 +1,5 @@
 <?php
-namespace app\core\exception;
+namespace daviscodedev\phpmvc\exception;
 
 use Exception;
 

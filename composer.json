@@ -1,5 +1,10 @@
 {
     "name": "daviscodedev/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "daviscodedev\\phpmvc\\": "."
+        }
+    },
     "authors": [
         {
             "name": "daviscodedev",

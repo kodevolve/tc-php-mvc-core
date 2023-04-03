@@ -1,7 +1,7 @@
 <?php
-namespace app\core;
+namespace daviscodedev\phpmvc;
 
-use app\core\middlewares\Base_Middleware;
+use daviscodedev\phpmvc\middlewares\Base_Middleware;
 
 class Controller {
 
@@ -9,7 +9,7 @@ class Controller {
     public string $action = '';
 
     /*
-    ** @var \app\core\middlewares\Base_Middleware[]
+    ** @var \daviscodedev\phpmvc\middlewares\Base_Middleware[]
     */
     protected array $middlewares = [];
 

@@ -1,7 +1,7 @@
 <?php
-namespace app\core\form;
+namespace daviscodedev\phpmvc\form;
 
-use app\core\Model;
+use daviscodedev\phpmvc\Model;
 
 class Input_Field extends Base_Field {
 

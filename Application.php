@@ -1,8 +1,8 @@
 <?php
-namespace app\core;
+namespace daviscodedev\phpmvc;
 
-use app\core\db\Database;
-use app\core\db\DB_Model;
+use daviscodedev\phpmvc\db\Database;
+use daviscodedev\phpmvc\db\DB_Model;
 
 #[\AllowDynamicProperties]
 class Application {

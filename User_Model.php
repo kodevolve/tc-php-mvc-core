@@ -1,7 +1,7 @@
 <?php
-namespace app\core;
+namespace daviscodedev\phpmvc;
 
-use app\core\db\DB_Model;
+use daviscodedev\phpmvc\db\DB_Model;
 
 abstract class User_Model extends DB_Model{
 
