@@ -82,4 +82,7 @@ class Database {
     protected function log($message) {
         echo '['.date('Y-m-d H:i:s').'] - '.$message.PHP_EOL;
     }
+    private function nothing() {
+
+    }
 }
